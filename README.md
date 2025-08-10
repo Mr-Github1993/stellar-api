@@ -1,4 +1,4 @@
-=== package.json ===
+=== package.jso ===
 {
   "name": "stellar-api",
   "version": "0.1.0",
